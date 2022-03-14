@@ -1,0 +1,5 @@
+﻿"Square Width" = 7.5mm
+"Square Height"= 7.5mm
+"Tolerance"= 1mm
+"Block Height" = 5mm
+"Base Height"= 10mm
